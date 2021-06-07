@@ -1,0 +1,16 @@
+{
+
+    "writeKey": "a8616486486702188691-82675f59a6582d226973043ddfed6d889580b45c270a833cd14b6d67b7a64b21",
+    "readKey": "a8616486486702188691-90de7ed9e337a754ebf1794a0dbf922f0382e432563f5f843f4e1ba331bbb8be",
+    
+    "upload": {  
+        "type": "json",
+        "files": "locales/en.json",
+        "features": ["plural_object"]  
+      },
+      
+      "download": {
+        "files": "locales/${lang}.json"
+      }
+    
+  }
