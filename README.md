@@ -1,5 +1,5 @@
 # go-i18-example
-![Golang Starter in Spanish](./src/assets/react-i18next-example.png)
+![Golang Starter](https://ghost.localazy.com/content/images/2021/06/Go-i18n-localazy.png)
 
 This is an example repository showing how to use Localazy with [go-i18n](https://github.com/nicksnyder/go-i18n) for localization management.
 To learn more, check out the [blog post](https://localazy.com/blog/how-to-localize-golang-app-with-go-i18n-and-localazy) describing the set up in detail.
